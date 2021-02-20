@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        //test
         val names = arrayOf("Иван", "Марья", "Петр", "Антон", "Даша", "Борис",
                 "Костя", "Игорь", "Анна", "Денис", "Андрей", "Иван", "Марья", "Петр", "Антон", "Даша", "Борис",
                 "Костя", "Игорь", "Анна", "Денис", "Андрей")
